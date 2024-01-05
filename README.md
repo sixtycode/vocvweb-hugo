@@ -1,2 +1,2 @@
-# vocvwebingolang
- vocverse web in golang
+# vocvweb-hugo
+ vocverse web in golang hugo
